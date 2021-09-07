@@ -2,17 +2,19 @@
 
 ## Key Topics
 
-Using the Command Line to Create a New App
+* Using the Command Line to Create a New App
 
-API and Postgres flags
-rails new project-name-here --api --database=postgresql
-What visible changes do we see after?
-Configuring the App
+  * API and Postgres flags
+  * 'rails new project-name-here --api --database=postgresql'
+  * What visible changes do we see after?
 
-Adding Rack-CORS Middleware
-Setting up our Routes
-Rendering Info as JSON
+* Configuring the App
 
-Controller setup
-Rendering objects as JSON
-Intro to FastJSON API/Serializing your data
+  * Adding Rack-CORS Middleware
+  * Setting up our Routes
+
+* Rendering Info as JSON
+
+  * Controller setup
+  * Rendering objects as JSON
+  * Intro to FastJSON API/Serializing your data
