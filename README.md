@@ -5,7 +5,7 @@
 * Using the Command Line to Create a New App
 
   * API and Postgres flags
-  * 'rails new project-name-here --api --database=postgresql'
+  * `rails new project-name-here --api --database=postgresql`
   * What visible changes do we see after?
 
 * Configuring the App
